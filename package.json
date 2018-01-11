@@ -1,0 +1,32 @@
+{
+  "name": "pex-tilerender",
+  "version": "0.0.1",
+  "description": "Tile rendering helper for the pex library",
+  "homepage": "https://github.com/vorg/pex-tilerender",
+  "keywords": [
+    "pex",
+    "3d",
+    "graphics"
+  ],
+  "author": {
+    "name": "Marcin Ignac",
+    "email": "marcin.ignac@gmail.com",
+    "url": "http://marcinignac.com"
+  },
+  "main": "index.js",
+  "devDependencies": {
+  },
+  "peerDependencies": {
+    "pex-glu": "*"
+  },
+  "dependencies": {
+    "gm": "^1.17.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vorg/pex-tilerender.git"
+  },
+  "bugs": "https://github.com/vorg/pex-tilerender/issues",
+  "homepage": "https://github.com/vorg/pex-tilerender.git",
+  "license": "MIT"
+}
